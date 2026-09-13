@@ -1,4 +1,5 @@
 **JACKSON MURITHI KALELI| Web Developer | Python Developer | Data Analyst | AI and Automations**
+
 Develop and build business oriented tools that can solve actual problems. Based in Nairobi, Kenya.
 
 **WHAT I BUILD**:
