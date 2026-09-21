@@ -49,4 +49,53 @@ I develop and build business oriented tools that can solve actual problems. Base
   Proof of work: SMP coaching message generator that mirrors the Chat API response structure
 
   I help business owners who write the same types of responses repeatedly by building Python tool that generates structured drafts using the OpenAI API in the required voice and format.
+
+
+
 ------------------------------------------------------------
+**Pricing Based on Complexity of a Project**
+------------------------------------------------------------
+
+
+------------------------------------------------------------
+**PROJECT: AUTOMATED DATA REPORTS**
+------------------------------------------------------------
+
+  Hours estimated: 8h
+  
+  Base cost:       $280  (8h x $35/h)
+  
+  With complexity: $280  (x1.0 factor)
+ 
+  With 20% buffer: $336
+ 
+  Quote price:     $350  (rounded to nearest $50)
+
+------------------------------------------------------------
+**PROJECT: API INTEGRATION SCRIPTS**
+------------------------------------------------------------
+
+  Hours estimated: 20h
+  
+  Base cost:       $800  (20h x $40/h)
+ 
+  With complexity: $1,040  (x1.3 factor)
+  
+  With 20% buffer: $1,248
+ 
+  Quote price:     $1,250  (rounded to nearest $50)
+
+------------------------------------------------------------
+**PROJECT: AI WRITING AUTOMATION**
+------------------------------------------------------------
+ 
+  Hours estimated: 50h
+ 
+  Base cost:       $2,250  (50h x $45/h)
+  
+  With complexity: $3,375  (x1.5 factor)
+  
+  With 20% buffer: $4,050
+  
+  Quote price:     $4,050  (rounded to nearest $50)
+
