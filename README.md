@@ -8,11 +8,11 @@ I develop and build business oriented tools that can solve actual problems. Base
 
 **SERVICE 1: AUTOMATED DATA REPORTS**
 
-  Who I help:    small business owners who export data manually
+  Target market:    small business owners who export data manually
   
   Their problem: spending 2-4 hours per week copying data between spreadsheets and writing summaries
  
-  What I deliver: a Python script that reads their data source and produces a formatted weekly report in under 30 seconds
+  Service delivered: a Python script that reads their data source and produces a formatted weekly report in under 30 seconds
  
   Tools used:    Python, pandas, CSV/Excel/JSON
   
@@ -23,11 +23,11 @@ I develop and build business oriented tools that can solve actual problems. Base
 
 **SERVICE 2: API INTEGRATION SCRIPTS**
 
-  Who I help:    operations teams using two or more disconnected tools
+  Target market:    operations teams using two or more disconnected tools
  
   Their problem: manually copying data between platforms with no automation between them
  
-  What I deliver: a Python script that pulls from one API and pushes to another automatically on a schedule
+  Service delivered: a Python script that pulls from one API and pushes to another automatically on a schedule
 
   Tools used:    Python, requests, FastAPI, JSON
  
@@ -38,11 +38,11 @@ I develop and build business oriented tools that can solve actual problems. Base
 
 **SERVICE 3: AI WRITING AUTOMATION**
 
-  Who I help:    business owners who write the same types of responses repeatedly
+  Target market:    business owners who write the same types of responses repeatedly
  
   Their problem: spending hours writing first drafts of emails, summaries, or customer responses
  
-  What I deliver: a Python tool that generates structured drafts using the OpenAI API in the required voice and format
+  Service delivered: a Python tool that generates structured drafts using the OpenAI API in the required voice and format
  
   Tools used:    Python, OpenAI API, python-dotenv
  
