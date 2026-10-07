@@ -33,6 +33,8 @@ I develop and build business oriented tools that can solve actual problems. Base
  
   Proof of work: Multi-endpoint dashboard pulling from three simulated SMP data sources
 
+  Link:  https://modular-calculator.onrender.com
+
   I help operations teams using two or more disconnected tools by building Python script that pulls from one API and pushes to another automatically on .
 ------------------------------------------------------------
 
